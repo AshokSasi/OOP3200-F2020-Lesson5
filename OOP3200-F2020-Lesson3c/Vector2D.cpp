@@ -1,3 +1,11 @@
+/*
+ *Name: Ashok Sasitharan
+ *Student ID: 100745484
+ *Date: October 07 2020
+ *
+ *
+ * 
+ */
 #include "Vector2D.h"
 
 #include <iomanip>
