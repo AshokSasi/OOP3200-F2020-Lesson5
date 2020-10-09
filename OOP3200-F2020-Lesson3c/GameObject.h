@@ -1,3 +1,9 @@
+/*
+ *Name: Ashok Sasithararn
+ *Student ID: 100745484
+ *Date: October 7 2020
+ *File: GameObject.h
+ */
 #pragma once
 #ifndef  __GAME_OBJECT__
 #define __GAME_OBJECT__

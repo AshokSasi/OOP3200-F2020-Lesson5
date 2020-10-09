@@ -1,3 +1,9 @@
+/*
+ *Name: Ashok Sasithararn
+ *Student ID: 100745484
+ *Date: October 7 2020
+ *File: GameObject.cpp
+ */
 #include "GameObject.h"
 
 GameObject::GameObject():m_id(0), m_position(Vector2D())
